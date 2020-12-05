@@ -8,5 +8,5 @@ navbar-responsive-wds | [Responsive Navbar Tutorial](https://www.youtube.com/wat
 responsive-navbar-deved | [Responsive Navigation Bar Tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g&t=15s) | Tutorial by Dev ED. Making a responsive navigation bar: media queries, keyframe animations, basic javascript toggling, building a burger menu. |
 
 <div>
-  <iframe src="https://stackblitz.com/edit/angular?embed=1"></iframe>
+  <iframe style="width:100px; height:100px;" src="https://stackblitz.com/edit/angular?embed=1"></iframe>
 </div>
